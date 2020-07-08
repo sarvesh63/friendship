@@ -1,0 +1,23 @@
+.picture{
+	background-color:aqua;
+	color:black;
+	font-family:algerian;
+	text-align:center;
+	color:black;
+	text-shadow:3px 3px 3px green;
+}
+.last{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content: space-between;
+}
+body{
+	background-color:orange;
+	color:green;
+}
+img{
+	opacity:0.2;
+}
+img:hover{
+	opacity:1;
+}
